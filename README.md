@@ -27,7 +27,7 @@ clipboard contents, webcam, or screen without their explicit permission.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CyberKeyLab.git
+git clone https://github.com/Rubal5712/CyberKeyLab.git
 cd CyberKeyLab
 
 python -m venv venv
